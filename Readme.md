@@ -13,6 +13,11 @@ There are two demos available:
 - `qa.py`: Question Answering demo using Streamlit.
 - `object_detection.py`: Object Detection demo using Streamlit.
 
+You can find them already deployed in the following links:
+
+- [Question Answering](https://talk-huggingface-question-and-answers.streamlit.app)
+- [Object Detection](https://talk-huggingface-object-detection.streamlit.app)
+
 ## Installation
 
 To install the dependencies, you can use `pip`:
