@@ -20,6 +20,9 @@ You can find them already deployed in the following links:
 
 ## Installation
 
+you must have a Python version between 3.9 and 3.11. 
+The version 3.12 is not supported yet (PyTorch is not available for this version).
+
 To install the dependencies, you can use `pip`:
 
 ```bash
