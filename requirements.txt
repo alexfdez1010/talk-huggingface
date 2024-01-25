@@ -1,4 +1,6 @@
 streamlit
 watchdog
-st-chat-message
 transformers
+torch
+torchvision
+pillow
