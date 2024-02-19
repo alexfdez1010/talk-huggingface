@@ -4,7 +4,7 @@ This repository contains the slides and the demos of the talk of Hugging Face in
 
 ## Slides
 
-You can find the slides at `presentation.pdf`.
+You can find the slides at `slides.pdf`.
 
 ## Demos
 
