@@ -2,6 +2,10 @@
 
 This repository contains the slides and the demos of the talk of Hugging Face in Python Coruña.
 
+## Video
+
+You can watch the video of the talk in this [link](https://youtu.be/KbsGMhWKvG8). It is in Spanish.
+
 ## Slides
 
 You can find the slides at `slides.pdf`.
